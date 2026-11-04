@@ -1,0 +1,1048 @@
+TERMS AND CONDITIONS OF PURCHASE
+
+ 
+
+Last Updated: May 8, 2025
+ 
+
+Summary
+
+This summary is provided only for convenience. This summary is not a replacement for reading and understanding the terms and conditions. In case of any conflict between this summary and any other part of the terms, such other part of the terms shall govern.
+
+At https://www.lg.com/in you can purchase products for delivery only in India. Use of this service is subject to the following conditions, among others:
+
+• You must be at least 18 years old and competent to enter into a contract to use this service;
+
+• Abusive or illegal behaviour will not be tolerated;
+
+If you do any or all of the following, you indicate that you have read, understood, and agree to the terms and conditions:
+
+• Explicitly accepting the terms and conditions such as by ticking a checkbox;
+
+• Accessing the website or service;
+
+• Creating an account;
+
+• Accessing an account;
+
+• Placing an order or making a payment;
+
+• Undertaking any other action that involves interacting with the Service.
+
+The terms are subject to change. Please see the date on this page to know when these terms were last modified.
+
+Privacy Policy: https://www.lg.com/in/privacy
+
+Cookie Policy: https://www.lg.com/in/privacy/#tabs-cookie-policy
+
+
+
+ 
+
+1. Introduction
+
+The website at https://www.lg.com/in ("Website") is owned and operated by LG Electronics India Limited, a company established in India under the Companies Act, 1956 ("LGEIL", "We", "Us" and/or "Our"). These terms and conditions ("Agreement" and/or "Terms") are applicable to the use of the Service by Customers.
+
+We reserve the right, at Our sole discretion, to change or modify whole/portions of these Terms at any time. If We do this, We will post the changes on this page or a prominent portion of the Website and will indicate in a reasonable manner the date these Terms were last revised. Any such changes will become effective at least 7 days after they are posted, except that certain categories of modifications may be effective immediately as provided in more detail under "Modification of this Agreement" below. Your continued use of the Service after the date on which any such changes become effective constitutes Your acceptance of the modified Terms.
+
+In order to fulfil your Instructions, certain activities are undertaken by third-parties under their own terms and conditions ("Third-Party Service Provider(s)"). You are responsible for reading and understanding the terms and conditions of Third-Party Service Providers prior to placing any Instruction on the Service that would require the involvement of such Third-Party Service Provider. Third Party Service Providers include, but are not limited to:
+
+(a) Payment Gateways. The Service includes the following third-party payment processor(s) or payment gateway(s), or such other payment processor(s) or payment gateway(s) as may be specified in the Service: PineLabs Limited;
+
+(b) Delivery Providers. Delivery of products ordered through the Service is handled by third-party delivery service(s) including the following or such other other delivery service as may be specified in the Service: Delhivery Private Limited.
+
+The following terms and conditions, and policies, as updated from time to time, apply to your interactions and Instructions on the Website or Service, and are incorporated herein by reference:
+
+
+(i) Privacy Policy. The collection, use, storage, processing and transfer and deletion of Your personal information is governed by the Privacy Policy, available at: https://www.lg.com/in/privacy.
+
+By undertaking any or all of the following actions You indicate Your acceptance of these Terms:
+
+(I) explicitly accepting these Terms such as by ticking a checkbox;
+
+(II) accessing the Website;
+
+(III) creating an account on the Website;
+
+(IV) accessing an account on the Website;
+
+(V) Placing an order or making a payment; and/or
+
+(VI) undertaking any other action that involves interacting with the Service.
+
+You warrant that You possess the legal authority to accept these Terms and thereby enter into an agreement with LGEIL under the applicable laws and to use the Website and Service(s) in accordance with all terms and conditions herein.
+
+
+
+ 
+
+2. Definitions
+
+2.1 "Affiliate(s)" means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. "Control," for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+
+2.2 "Agreement" means this Terms and Conditions agreement.
+
+2.3 "Customer" means: (i) in case of a person visiting or interacting with the Website or Service on behalf of himself or herself, such natural person; (ii) in case of a person visiting or interacting with this Website or Service on behalf of another natural person, such other natural person.
+
+2.4 "Documentation" means the information made available by LGEIL regarding the Service, including user guides & manuals; help files; tutorials including written, audio and video; policies; procedures; and other information made available by LGEIL regarding the Service, as updated from time to time.
+
+2.5 "Instruction(s)" means the instructions given by You on or through the Website, and includes Orders placed by You through the use of the Website.
+
+2.6 "LGEIL", "We", "Us" and/or "Our" means the company described in Introduction above.
+
+2.7 "Order" or "Ordered" means an offer made by You to LGEIL to purchase certain product(s) manufactured by LGEIL from the Website.
+
+2.8 "Service" means the Website; Your Instructions, Orders and interactions with the Website; responses generated by the Website; and all actions undertaken in pursuance of Your Instructions on the Website, including but not limited to placement of orders, dispatch of ordered products, and delivery of ordered products.
+
+2.9 "Terms" means this Terms and Conditions agreement.
+
+2.10 Party
+
+2.11 "User" means a person visiting and interacting with the Website or Service.
+
+2.12 "Website" means the website at https://www.lg.com/in/.
+
+2.13 "You" and/or "Your" means Customer.
+
+
+
+ 
+
+3. Access and Use of Service
+
+3.1 Age and Competence. The Service is not intended for anyone under 18 years of age. You affirm that You are more than 18 years of age and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with these Terms. If You are under 18 years of age, then please do not use the Service. Please ask a parent or legal guarding to place any Order through their own account.
+
+3.2 Usage Limits. LGEIL may place reasonable technical or non-technical limitations on the use of the Service by Customer, regardless of whether or not such limitations are communicated to Customer, including but not limited to allocation of bandwidth, computing power, or any other limitation mentioned in Documentation or as specified in the Service.
+
+3.3 Service Availability. We will do our utmost to ensure that availability of the Website will be uninterrupted and that transmissions will be error-free. However, due to the nature of the Internet, this cannot be guaranteed. Also, your access to the Website may also be occasionally suspended or restricted to allow for repairs, maintenance, or the introduction of new facilities or services at any time without prior notice.
+
+3.4 Reviews, Comments, Communications and Feedback. The Website may include functionality that allows You to post reviews, comments and other content; send communications; and submit suggestions, ideas, comments, questions or other information(“Content”), as long as the content does not violate these Terms or any applicable law(s). In particular, all such content must abide by Your responsibilities under "Legality of Your Use" below. You agree to grant licenses in accordance with "License by Customer" below. You represent and warrant that You own or otherwise control all of the rights to the content that You post or that You otherwise provide on or through the Website or Service; that the content or material is accurate; and that use of the content and material does not breach these Terms and any applicable policies. You grant the Company a perpetual, irrevocable, royalty-free, worldwide license to use, reproduce, modify, adapt, publish, translate, distribute, display, create derivative works from, and otherwise exploit such Content in any media or platform. Additionally, You agree that all rights, including copyright, in the submitted Content are assigned to the Company upon submission. The Company may use reviews, comments, and feedback for marketing, promotional, or other purposes at its sole discretion, and You waive any claims regarding such use.
+
+
+
+ 
+
+4. Customer Responsibilities
+
+4.1 Customer Disclaimer. You acknowledge and undertake that You are accessing the Website and providing Instructions, placing Orders, or otherwise interacting with or transacting on the Website or Service at your own risk, and that You are using Your best and prudent judgment before undertaking any such activity.
+
+4.2 Accounts. You may be required to create an account in order to access and use certain features of the Service. If You choose to create such account, You agree to provide and maintain true, accurate, current and complete information about You. You are responsible for maintaining the confidentiality of Your password and account, if any, and are fully responsible for any activity that occurs under Your account. You agree to immediately notify LGEIL of any unauthorized use of Your password or account or any other breach of security.
+
+4.3 Legality of Your Use. The Website may allow You to transmit or publish information such as by posting reviews and providing feedback. LGEIL may remove any information in violation of this clause at any time without prior notification and without assigning any reason. You shall be the sole responsible party to ensure that Your use of the Website and Service complies with all applicable laws, and third-party privacy and intellectual property rights. In particular, You shall not host, display, upload, modify, publish, transmit, update or share any information that:
+
+4.3.1 belongs to another person and to which You do not have any right to;
+
+4.3.2 is grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libellous, invasive of another's privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever;
+
+4.3.3 harm minors in any way;
+
+4.3.4 infringes any patent, trademark, copyright or other proprietary rights;
+
+4.3.4 infringes any patent, trademark, copyright or other proprietary rights;
+
+4.3.5 violates any law, rules or regulations for the time being in force in or outside India;
+
+4.3.6 deceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or menacing in nature;
+
+4.3.7 impersonate another person;
+
+4.3.8 contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource;
+
+4.3.9 threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign states, or public order or causes incitement to the commission of any cognisable offence or prevents investigation of any offence or insulting any other nation;
+
+4.3.10 falsifies or deletes any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file, text, information or data that is uploaded or otherwise provided by You;
+
+4.3.11 consists of commercial solicitation, mass messaging, political campaigning or any form of spam;
+
+4.3.12 is likely to cause annoyance, inconvenience or needless anxiety.
+
+4.4 Misuse of Services. You must not misuse the Website or Service by interfering with their normal operation or attempting to access them using a method other than through the interfaces and instructions provided by LGEIL. You must not attempt to gain unauthorized access to the Website or Service or content or their related systems or networks. You must not attempt, permit or undertake direct or indirect access to or use of the Website or Service or content in a way that circumvents a contractual usage limit, or use the Website or Service to access or use any of LGEIL's intellectual property except as permitted under these Terms or the Documentation.
+
+4.5 Abusive or Excessive Use. You must not take any action or otherwise engage in (i) imposing an unreasonable or disproportionately large load on the Service of the infrastructure of the Service; and/or (ii) abusive or excessive usage of the Services or the infrastructure of the Services, which is usage significantly in excess of average usage patterns that adversely affects the speed, responsiveness, stability, availability, or functionality of the Services for other users.
+
+4.6 Information Extraction. You shall not, without explicit prior written authorization from LGEIL specifically permitting such an action, perform reverse look-up, trace or seek to trace any information on any other Customer of Website, including any account on the Website not owned by You, to its source, or exploit the Website or any service or information made available or offered by or through the Website, in any way where the purpose is to reveal any information, including but not limited to personal identification or information, other than Your own information, as provided for by the Website.
+
+4.7 Fraudulent or unlawful behaviour. You agree not to use the Service for fraudulent purposes, or in connection with criminal offense or other unlawful activity. LGEIL reserves the right to suspend or terminate your access to the Service and take appropriate legal action if such behavior is detected.
+
+4.8 Scanning for Vulnerabilities. You agree not to probe, scan or test the vulnerability of any LGEIL system or network without explicit prior written authorization by LGEIL.
+
+4.9 No Reverse Engineering. You may not, and You will not encourage, assist or authorize any other person to copy, modify, reverse engineer, decompile or disassemble, or otherwise tamper with, the Website, whether in whole or in part, or create any derivative works from or of the Website.
+
+4.10 Compliance with the Terms. You shall be the sole responsible party for Your compliance with these Terms.
+
+
+
+ 
+
+5. Order Terms
+
+5.1 Your Orders. Your Order represents an offer made by you to purchase the product(s) specified in your Order. Upon placing an Order. You will receive an e-mail confirming receipt of Your Order and containing the details of Your Order (the "Order Confirmation E-mail"). "). Please note that Order Confirmation Email serves only as an acknowledgement of Your Order, and does not confirm acceptance of Your Offer to buy the product(s) ordered. We only accept Your offer and conclude the contract of sale for a product ordered by You when the product is dispatched to You and an e-mail confirmation is sent to You that the product has been dispatched to You (the "Dispatch Confirmation E-mail") . please note until the Dispatch Confirmation Email is sent, we reserve the right to cancel your Order at our sole discretion.
+5.2 Personal Use. You confirm that the product(s) ordered by You are purchased for Your internal / personal purpose and not for re-sale or business purpose. You authorize us to declare and provide declaration to any governmental authority on Your behalf stating the aforesaid purpose of the products ordered by You on the website.
+5.2.1. Business and Bulk Orders: The Company may, at its sole discretion, permit business and bulk orders, provided such intent is disclosed by the customer at the time of purchase through the submission of requisite documentation, including but not limited to a valid Goods and Services Tax Identification Number (GSTIN).  The acceptance and fulfillment of business or bulk orders shall be at the sole discretion of the Company and contingent upon compliance with all relevant laws, regulations, and the Company’s policies.
+5.3 Payments. You undertake to make all payments in a timely manner, including but not limited to all applicable taxes, charges and fees as may be specified. We accept payments through a third-party payment gateway. The modes of payment offered by such third-party payment gateway may include credit card, debit card, net banking, mobile wallets and/or UPI. The terms and conditions, policies, procedures and guidelines of the Reserve Bank of India, National Payments Corporation of India, and the third-party service providers including but not limited to payment gateway, bank, mobile wallet, shall be applicable to all transactions undertaken by You. You assume sole responsibility for all risks associated with transfer of money or payments to Us, whether or not such transfer or payments are done through the use of a third-party payment gateway. All disputes regarding delayed payments or failed payments must be resolved with Your own financial service provider such as Your bank, and the third-party payment gateway, if any. LGEIL shall not be responsible for any failed or delayed payments, loss of information, loss of reputation or any other damages or losses faced by You or any third-party due to the use of such third-party payment gateway.
+5.4 Before Cancellation Dispatch. You may cancel Your Order without incurring any cost before the product is shipped from our warehouse. Please note that there may be a delay between the product dispatch and the delivery of Dispatch Confirmation E-mail to You. Once the product is shipped, cancellation is no longer permitted.  LGEIL reserves the right to determine, at its sole discretion, whether an order was shipped prior to cancellation. Refunds, if any, for eligible cancellations shall be processed by LGEIL in accordance with "Refunds" below.
+5.5 Cancellation at the Time of Delivery. Cancellation of an order at the time of delivery is permitted only in exceptional cases, such as when the product exhibits visible physical damage, is non-functional upon first use ("Dead on Arrival"), or an incorrect product has been delivered that does not match the order specifications. The Customer must notify LGEIL immediately upon delivery, and LGEIL reserves the right to inspect and validate the reported issue before approving the cancellation. If the cancellation is approved under these conditions, no cancellation fees will be imposed, and refunds will be processed in accordance with LGEIL's Refund Policy. For cancellations at the time of delivery due to reasons other than the specified conditions, LGEIL reserves the right to accept or reject such requests at its sole discretion, depending on factors such as logistical feasibility and the nature of the request. If such a cancellation is accepted, a cancellation fee may be imposed to cover costs incurred, including but not limited to packaging, payment gateway charges, delivery fees, and rerouting or returning the product(s). Refunds for accepted cancellations will also be processed in accordance with LGEIL's Refund Policy.
+
+ 
+
+Issue Description
+
+Policy
+
+Order Cancellation
+
+Your order is eligible for cancellation until ‘cancel’ button is active.
+
+ 
+
+If ‘Cancel’ button is not active, the Order cannot be modified or cancelled at this time. Even our Order Support team is unable to make any changes to it.
+
+ 
+
+Any cancellations or doorstep rejections of Standard Delivery Orders after disable of cancellation button, will attract cancellation fee as per the below grid. 
+
+Category
+
+Cancellation charges
+
+TV, AV, Monitors
+
+INR 999
+
+Home appliances
+
+INR 1999
+
+Cancellation fee where charged will be adjusted from the final refund amount.
+
+ 
+
+In a rare case if, a cancelled order is still shipped or arrives at your doorstep, please do not accept the shipment. Once refused by you our delivery partner will mark the Shipment as returned post which a refund will be processed.
+
+ 
+
+It may take up to 7-10 days for refund credit to reflect into your account after LG initiates the refund.
+
+ 
+
+5.6 Returns Not Permitted. Once a product has been delivered to the address provided by You, the product cannot be returned for any refund  except in cases where the delivered product is defective, deficient, spurious, or does not conform to the characteristics or features as advertised or agreed upon.
+5.7 Product Installation and Demonstration. LGEIL may offer installation and/or demonstration of products sold through the Service. If You purchase a product through the Service, You may, within such time as may be specified by LGEIL, request LGEIL for the product to be installed and/or demonstrated at the address at which the product was delivered. Unless specified otherwise by LGEIL at the time of placing of Your Order, LGEIL reserves the right to charge such fee for product installation and/or demonstration as may be specified. LGEIL reserves the right to restrict product installation and/or demonstration to specific locations for any reason, including but not limited to distance from the nearest available LGEIL personnel with appropriate tools and training.
+5.8 Damaged or Defective Product. If a product is damaged or defective at the time of its delivery to You, You must contact LGEIL within ten (10) days from the receipt of the damaged or defective product. Upon being notified of a damaged or defective product within the time period specified above, or if any damage or technical fault is observed by LGEIL personnel at the time of product installation and demonstration, LGEIL may investigate and determine in its sole discretion whether: (i) the product was dead on arrival (DOA) or damaged before delivery to You or the address specified for the delivery of the Order; (ii) the product is the same as the product that was shipped to You; and/or (iii) the product is in its original condition (with brand's/manufacturer's box, MRP/MSRP tag intact, user manual, warranty card and all the accessories therein). You contacted LGEIL within the time period specified hereinabove. You agree to provide all support necessary for LGEIL to determine (i), (ii) and (iii) above. If You do not contact LGEIL within the time period specified above and/or if (i), (ii) and/or (iii) above are not satisfied or are violated as determined by LGEIL, LGEIL shall not be liable under this Agreement for any damage or defect in any such product. Subject to Your compliance with the terms of this Agreement and the conditions specified hereinabove, LGEIL's sole responsibility and liability to You shall be to use commercially reasonable means to ensure that You have a working product, and if this is not commercially viable, LGEIL may, in its sole discretion, offer to cancel the Order for that product and provide a refund to You in accordance with "Refunds" below. Nothing in this clause shall prevent You from exercising Your rights under any product warranty that may be applicable to such product under such terms as may be applicable to such product warranty.
+5.9 Refunds. Refunds if any, shall be initiated only for orders canceled in compliance with this Agreement and shall be made to the same payment method or issuing bank from where the initial payment was received. LGEIL may, at its sole discretion, refuse to provide refunds to an alternative account. In case of cancellation of an Order by LGEIL or refusal by LGEIL to accept an Order under the terms of this Agreement, LGEIL will refund the full amount paid by the Customer for such Order. In case of cancellation of an Order by Customer, LGEIL  may reserve the right to deduct reasonable costs associated with the processing and handling of the cancellation to recover incurred expenses, if applicableRefunds will not be processed for cancellations initiated after shipment, except in cases of defective, deficient, or non-compliant goods as outlined in the Returns Policy.
+
+5.10 Chargeback. Chargebacks are strictly prohibited under these Terms. You understand that initiation of a chargeback for a payment already made may result in (i) cancellation of any Order and/or request to return any product in its unopened, undamaged, unused and original condition (with brand's/manufacturer's box, MRP/MSRP tag intact, user manual, warranty card and all the accessories therein); and/or (ii) suspension or termination of this Agreement, Your account, or the Service. LGEIL reserves the right to undertake any action permitted under these Terms or under any applicable law(s).
+
+5.11 Prices and Offers. Prices and offers listed on the Website are provided as an invitation to offer and may not indicate the availability of the product. When You place an Order, You provide us an offer to purchase products from Us.
+
+5.12 Taxes, charges and fees. You shall be responsible for payment of all fees/costs/charges associated with the purchase of products from Us and you agree to bear any and all applicable taxes including but not limited to VAT/CST, service tax, GST, duties and cesses, delivery fees, payment gateway charges, etc.
+
+5.13 Instalments. LGEIL may, at its sole discretion, provide an option for payments to be made through equated monthly instalments ("EMI"). LGEIL may, at its sole discretion, offer an option of No-Cost EMI to You wherein LGEIL would offer an EMI price that matches or approximates the price displayed for a specific product. EMI is the sole discretion of Your bank/issuer/non-banking financial company (NBFC) at applicable rate of interest, and such bank/issues/NBFC may or may not permit EMI for You. All disputes and queries related to EMI must be resolved between You and Your bank/issuer/NBFC. LGEIL shall not be responsible under any circumstances regarding any EMI dispute.
+
+5.14 Shipment and Delivery. The Service can be used for purchase of products to be delivered within the territory of India only. LGEIL and its delivery partners reserve the right to restrict delivery to specific locations or delivery facilities. The ordered products will be shipped to address provided by You at or before the time of placing of the Order. Please ensure that You inspect the package/shipment as soon as it is delivered. In case of any physical damage to the outer or inner packing, either refuse to accept delivery or accept delivery only after putting a suitable remark on the proof of delivery receipt document. LGEIL retains the right to withhold refund/replacement of the damaged product if You fail to put a note about the nature of damage on the delivery receipt confirmation slip.
+
+5.15 Delivery of Large or Bulky Products. You understand that delivery of large and/or bulky products to the address provided by You depends upon the availability of reasonable means of delivery to the specified address. At times the delivery of Your order to your address shall depend upon the availability of a passage and/or staircases or lift/elevator of reasonable dimensions to deliver the product without damaging the product and/or its packaging. If the delivery cannot be completed to the specified address for a reason mentioned above, then the delivery partner will attempt to complete the delivery to a reasonable location on the ground floor of the premises of the delivery address provided by You. You understand and agree that a delivery completed in the manner specified hereinabove to a location on the ground floor of Your premises shall be considered to be a complete and successful delivery and all risk and liability related to such product shall transfer to You upon completion of the delivery of the product in such a manner.
+
+5.16 Delivery Delay. The estimated time of delivery is provided for Your convenience only, based on historical data of the time taken for deliveries to be completed to Your location. You understand that the time required for delivery is subject to multiple factors that can cause a delay, including but not limited to availability of the product, weather conditions, distance from warehouse, government rules, regulations and orders, among others. LGEIL and its delivery partner(s) shall not be liable for any delay in the shipment or delivery of any product, package or Order for any reason, regardless of whether such a delay could be reasonably foreseen, regardless of whether LGEIL was informed of the possibility of such delay, and regardless of whether any loss or damage was faced by You or any third party as a result of such a delay.
+
+5.17 Delivery errors. If a product is lost in transit or delivered to an incorrect address, please contact Us immediately. LGEIL will take all reasonable steps to ensure that You receive Your Order. If the delivery of the ordered product is not available to LGEIL in a commercially reasonable manner, LGEIL may, at its sole discretion, cancel the product or Order and refund the amount paid by You for such product(s). If the address provided by You at the time of placing of the Order does not exist or cannot be found, , or if no one is available to receive delivery of the Order despite multiple delivery attempts, You shall be liable to bear all costs related to attempted delivery and the return of the product(s) and/or correction of the delivery address.
+
+5.18 Missing accessories. If a product is missing accessories prior to its delivery to You, You must contact LGEIL within twenty-four (24) hours of receipt of the product, post which LGEIL shall not be liable for any missing accessories. LGEIL will investigate the request with Delivery Provider and accordingly provide support.
+
+5.19 Product Warranties. The terms of warranty provided on the product description page, or in the absence of such a description, the terms of warranty supplied with the product shall be applicable to such products. Purchasing a product through the Website or Service does not entitle You to any additional or extended warranty. However, LGEIL may, at its sole discretion, offer an option to purchase an extended warranty upon payment of such
+
+5.20 Title and Risk of Loss. When You purchase product(s) through the Service, title to the product is transferred to You upon delivery of the product. The risk of loss or damage in such product(s) will pass to You upon delivery of the product(s).
+
+5.21 Right to Refuse LGEIL may, in its sole discretion, refuse to sell products or fulfil Orders placed by You without assigning any reason.
+
+5.22 Limitations on Transactions. LGEIL may, in its sole discretion and without prior notification to You, impose limits on the number of transactions or transaction price received from a single Customer or payment method.
+
+5.23 Exclusive Remedy. This Section on Order Terms provides Your sole remedy and LGEIL's sole responsibility for situations covered by this Section. You understand and agree that this Section forms an essential basis for the Agreement.
+
+
+
+ 
+
+6. Intellectual Property Rights
+
+6.1 Reservation of Rights. Subject to the limited rights expressly granted hereunder, LGEIL, its Affiliates, its licensors and content providers reserve all of their rights, titles and interests in and to the Website, Service, content, logos, and other materials created by them, including all of their related intellectual property rights. LGEIL owns all right, title, and interest in and to LGEIL's registered and unregistered, domestic and foreign, trademarks, service marks, trademark applications, service mark applications, trade names, patents, patent applications, copyrights, copyright applications, discoveries, know-how and trade secrets of and relating to the Services, including any and all templates created by LGEIL. No one may copy, reproduce, transmit, post, distribute or create derivative works from the Services without express, prior written authorization from LGEIL. No rights are granted to You hereunder other than as expressly set forth herein.
+
+6.2 Copyright, authors' rights and database rights. All content included on the Website, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of LGEIL, its Affiliates or its content suppliers and is protected by Indian and international copyright, authors' rights and database right laws. The compilation of all content on this website is the exclusive property of LGEIL and its Affiliates and is protected by laws of India and international copyright and database right laws. All software used on this website is the property of LGEIL, its affiliates or its software suppliers and is protected by India and international copyright and author' rights laws.
+
+6.3 License by LGEIL. Subject to Your compliance with these Terms and payment of applicable fees, if any, LGEIL grants a limited license to access and make personal use of the Website.
+
+6.4 Restrictions on License by LGEIL. Unless explicitly permitted otherwise by LGEIL, You shall not sell, resell, license, sublicense, distribute, make available, rent or lease the Website, Service or any content, or their derivatives. You may not frame or mirror any part of the Website. Without express written consent from LGEIL and/or its Affiliate(s), as may be applicable, You shall not: (i) download (other than page caching) or modify the Website, or any portion of it; (ii) use any meta tags or any other hidden text utilising LGEIL's or its Affiliates' names or trademarks; (iii) use any data mining, robots, or similar data gathering or extraction tools; (iv) otherwise download, copy or modify any information from the Website, or Service or any portion of the Website or Service; and/or (v) create and/or publish Your own database that features substantial parts of this Website, including prices and product listings.
+
+6.5 License by Customer. Customer grants to LGEIL and its Affiliates and sublicensees a non-exclusive, royalty-free, irrevocable, perpetual, worldwide and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display any content or information provided by You under "Reviews, Comments, Communications and Feedback" above throughout the world in any media, and the right to use the name provided by Customer in connection with such content, if they choose. You agree to waive Your right to be identified as the author of such content and Your right to object to derogatory treatment of such content. You agree to perform all further acts necessary to protect any of the above rights granted by You, including execution of deeds and documents at LGEIL's request. LGEIL may, but shall have no obligation to, use feedback provided by You to improve the Website or Service without notice and without any attribution.
+
+
+
+ 
+
+7. Modifications
+
+7.1 Modification of this Agreement. This Agreement may be modified by LGEIL from time to time. If We do this, We will post the modified Terms on this page and will indicate the date these Terms were last updated. Any such modifications will become effective no earlier than seven (7) days after they are posted, except that the following categories of modifications will be effective immediately: (i) modifications required to provide new features without negatively affecting your rights under these Terms; (ii) modifications made to correct typographical errors; (iii) or modifications made to comply with legal obligations, including but not limited to Our or Your obligations under a law, regulation, court order or government order; and/or (iv) modifications to the Section on Order Terms. You shall be responsible to review the Agreement from time to time in order to be aware of any such modifications to these Terms. We may, for Our convenience only and without waiving Your obligation to periodically review the Agreement, attempt to notify You of significant modifications to this Agreement through the Website user interface, in an email notification or through other reasonable means. You understand and agree that Your continued access, registration or use of the Website or Service beyond the effective date of such modification shall be deemed to be Your acceptance of all modifications to the Agreement.
+
+7.2 Modification of Website or Service. LGEIL may, at any time and without prior notice, introduce new features, remove or stop offering old features, or modify existing features of the Website or Service. LGEIL reserves the right to charge a fee to access any new feature or service.
+
+
+
+ 
+
+8. Privacy
+
+8.1 We view protection of Your privacy as a very important principle. We understand clearly that You and Your Personal Information is one of Our most important assets. We store and process Your Information including any sensitive personal information collected (as defined under the Information Technology Act, 2000), if any, on computers that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under. Our current Privacy Policy is available at https://www.lg.com/in/privacy. If You object to Your Information being transferred or used in this way please do not use this Website.
+
+8.2 We and our affiliates will share/sell/transfer/license/covey some or all of your personal information with another business entity should we (or our assets) plan to merge with or are acquired by that business entity, or re-organization, amalgamation, restructuring of business or for any other reason whatsoever. Should such a transaction or situation occur, the other business entity or the new combined entity will be required to follow the privacy policy with respect to your personal information. Once you provide your information to us, you provide such information to us and our affiliate and we and our affiliate may use such information to provide you various services with respect to your transaction whether such transaction are conducted on https://www.lg.com/in or with third party merchant's or third party merchant's website.
+
+
+
+ 
+
+9. Disclaimers and Limitation of Liability
+
+9.1 Third-Party Service Provider Disclaimer. LGEIL shall neither be liable nor responsible for any actions or inactions of Third Party Service Providers nor any breach of conditions, representations or warranties by any Third-Party Service Provider. LGEIL hereby expressly disclaims any and all responsibility and liability in this regard. LGEIL shall not mediate or resolve any dispute or disagreement between You and any Third-Party Service Provider.
+
+9.2 Warranty Disclaimers. To the maximum extent permitted by applicable law(s), the Website and Service are provided by LGEIL on an "AS IS" and "AS AVAILABLE" basis. LGEIL makes no representations or warranties of any kind, express or implied, as to the operation of the Website or Service or the information, content, materials, or products included on the Website or Service. You expressly agree that Your use of the Website and Service are at Your sole risk. To the maximum extent permissible by applicable law, LGEIL disclaims all warranties or representations, express or implied, including but not limited to, implied warranties of merchantability, fitness for a particular purpose, quality, suitability, accuracy, reliability, completeness, timeliness, performance, safety or legality of the products listed or displayed or transacted or the content (including product or pricing information and/or specifications) on the Website. While We have taken precautions to avoid inaccuracies in content, this website, all content, information (including the price of products), software, products, services and related graphics are provided as is, without warranty of any kind. LGEIL does not warrant that the Website or Service, its servers, or e-mails sent from LGEIL are free of viruses or other harmful components. LGEIL will not be liable for any damages of any kind arising from the use of the Website or Service, including but not limited to direct, indirect, incidental, punitive, and consequential damages. All the products sold on Website are governed by different state laws and if LGEIL is unable to deliver such products due to implications of different state laws, LGEIL will return or will give credit for the amount (if any) received in advance by LGEIL from the sale of such product that could not be delivered to You.
+
+9.3 Limitation of Liability. If any warranty disclaimer above is prohibited by an applicable law, LGEIL's sole liability to You, and Your sole remedy against LGEIL, shall be reperformance of the Service by LGEIL. In order to benefit from this clause, You agree to return any product or benefit already received by You in the circumstances that gave rise to the dispute. IN NO EVENT SHALL LGEIL BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND IN CONNECTION WITH THESE TERMS OF USE, EVEN IF LGEIL HAS BEEN INFORMED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+ 
+
+10. Indemnification
+
+10.1 Indemnification. You shall indemnify and hold harmless LGEIL, its Affiliates and their respective officers, directors, agents and employees, from any claim or demand, or actions including reasonable attorney's fees, made by any third party or penalty imposed due to or arising out of Your breach of these Terms or any document incorporated by reference, or Your violation of any law, rules, regulations or rights of a third party.
+
+10.2 Release You hereby expressly release LGEIL and/or its Affiliates and/or any of its officers and representatives from any cost, damage, liability, loss (including loss of profits, revenue, contracts, anticipated savings, data, goodwill or wasted expenditure or any other direct or indirect or consequential loss) or other consequence of: (i) any of the actions or inactions of Third-Party Service Providers; and/or (ii) any action or inaction of LGEIL. You specifically waive any claims or demands that You may have in this behalf under any statute, contract, theory of law or otherwise. Under no circumstances shall LGEIL be responsible for any business loss.
+
+
+
+ 
+
+11. Third-Party Websites, Apps or Services
+
+11.1 Links to Third-Parties. The Website or Service may contain links to external third-party websites, apps or services. LGEIL does not guarantee, approve or endorse the information or products available on such third-party websites, apps or services, nor does a link indicate any association with or endorsement of the linked website, app or service.
+
+11.2 No Control Over Third-Parties. We do not operate or control and have no responsibility for the information, products and/or services found on any external sites. Nor do We represent or endorse the accuracy or reliability of any information, products and/or services provided on or through any external sites, including, without limitation, warranties of any kind, either express or implied, warranties of title or non-infringement or implied warranties of merchant-ability or fitness for a particular purpose.
+
+11.3 Risks from Third-Parties. You assume complete responsibility and risk in your use of any external website, app or service. You should direct any concerns regarding any external link to the relevant website's, app's or service's administrator, owner or webmaster. You are hereby informed to exercise utmost caution when visiting any third-party website, app or service.
+
+
+
+ 
+
+12. Term and Termination
+
+12.1 Term. This Agreement shall be effective as of the date of Customer's acceptance or agreement to these Terms and shall continue to remain in force until the Agreement is terminated in accordance with the terms of this Agreement.
+
+12.2 Termination by LGEIL. You agree that LGEIL, in its sole discretion, may suspend or terminate Your account (or any part thereof) or this Agreement at any time without prior notice and without assigning any reason. LGEIL may remove and discard any content within the Website or Service, for any reason, including, without limitation, for lack of use or if LGEIL believes that you have violated or acted inconsistently with the letter or spirit of these Terms and the Associated Legal Documents. Any suspected fraudulent, abusive or illegal activity that may be grounds for termination of your use of the Service, may be referred to appropriate law enforcement authorities.
+
+12.3 Termination by Customer. Customer may terminate this Agreement at any time by contacting LGEIL, however, termination will not be effective until LGEIL provides a confirmation of termination of this Agreement to Customer.
+
+12.4 Effect of Termination. Upon termination of this Agreement, Customer shall be liable for any pending or unpaid fees, charges or payments for any Order placed or Instructions given by Customer under this Agreement. LGEIL may, at its sole discretion, undertake any of the following actions upon termination of the Agreement: (i) provide a refund for unfulfilled Order(s); (ii) cancel unfulfilled Order(s); (iii) require Customer to return product(s) that have already been delivered if LGEIL suspects fraudulent activity; and/or (iv) fulfil an Order placed prior to termination of the Agreement.
+
+12.5 Surviving Provisions. Notwithstanding any other provision to the contrary herein, terms which by their nature survive termination or expiration of this Agreement, and in particular the following Sections shall survive the termination of the Agreement: Definitions; Customer Responsibilities; Payments; Chargeback; Instalments; Title and Risk of Loss; Limitation of Rights; License by Customer; Disclaimers and Limitation of Liability; Indemnification; Third-Party Websites, Apps and Services; Term and Termination; and General Clauses.
+
+
+
+ 
+
+13. Compliance with Laws
+
+Customer & LGEIL shall comply with all the applicable laws and regulations (including without limitation Foreign Exchange Management Act, 1999 and the rules made and notifications issued there under and the Exchange Control Manual as may be issued by Reserve Bank of India from time to time, Customs Act, Information and Technology Act, 2000 as amended by the Information Technology (Amendment) Act 2008, Prevention of Money Laundering Act, 2002 and the rules made there under, Foreign Contribution Regulation Act, 1976 and the rules made there under, Goods & Services Tax Act, 2017 and the rules made there under, Income Tax Act, 1961 and the rules made there under, Export Import Policy of government of India) applicable to them respectively for using Payment Facility and the Website.
+
+
+
+ 
+
+14. General Clauses
+
+14.1 Severability. The parties agree that if any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law or otherwise unenforceable, the parties will attempt in good faith to make the least amount of changes necessary to this Agreement in order to restore the original intention or approximate the original intention behind the removed clause. If such modification is not possible, such provision will be deemed null and void, and the remaining provisions of this Agreement will remain in effect.
+
+14.2 Force Majeure. You understand that there may be an occurrence of an event or effect that cannot be reasonably anticipated or controlled, which even by the exercise of reasonable diligence cannot prevent non-performance, and in particular, performance of the Service or fulfilment of an Order or Instruction. These occurrences and events include, but are not limited to: acts of God; acts of government; acts of war; acts of public enemies; acts of terror; strikes or other labour problems; pandemic; epidemic; floods; fires; earthquakes; civil unrest; riots; explosions; outages; general Internet brown-outs or black-outs or shortage of bandwidth; hardware failures; hacking, denial of service or ransomware attacks; actions of the elements; or other causes beyond the control of LGEIL in the performance of this Agreement. Upon the occurrence of such event or effect You agree to excuse performance under this Agreement and not hold LGEIL liable for the delay in or failure of performance under this Agreement. Any such delay in or failure of performance shall not constitute default or give rise to any liability for damages.
+
+14.3 Assignment. You may not assign any of Your rights or obligations hereunder, whether by operation of law or otherwise, without LGEIL's prior written consent. LGEIL may assign this Agreement in its entirety, without Your consent, to its Affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+
+14.4 Relationship between Parties. The parties to this Agreement are independent and nothing in this Agreement shall make them partners, employees, agents or other representatives of the other party hereto. Neither party shall make any representation that suggests otherwise.
+
+14.5 Governing Law and Jurisdiction. This Agreement shall be interpreted, construed and enforced in all respects in accordance with the laws of India without regard to any principles of conflicts of laws thereof. Both parties agree that the competent courts at New Delhi shall have the exclusive jurisdiction in case of any dispute arising between both the Parties.
+
+14.6 Waiver. No failure or delay by LGEIL in exercising any right under this Agreement will constitute a waiver of that right.
+
+14.7 Headings and Sub-headings. The headings and sub-headings in this Agreement are for convenience only and do not affect the meaning of the relative section / clause.
+
+14.8 Interpretation. In this Agreement, the singular includes the plural and the plural the singular; words importing any gender include the other genders; references to statutes are to be construed as including all statutory provisions consolidating, amending or replacing the statute referred to; the word "or" shall be deemed to include "and/or", the words "including", "includes" and "include" shall be deemed to be followed by the words "without limitation"; references to articles, sections (or subdivisions of sections) or exhibits or schedules are to those of this Agreement; and references to agreements and other contractual instruments shall be deemed to include all subsequent amendments and other modifications to such instruments, but only to the extent such amendments and other modifications are not prohibited by the terms of this Agreement.
+
+14.9 Contact Information. You may contact LGEIL at 0806-937-9999 or https://www.lg.com/in/support/email
+
+
+ 
+
+No Cost EMI & Cashback
+1 Year Insurance
+Terms & Condition's for the Cashback Offers for the OBS Platform:
+
+1. For purchase of product, payment is allowed only from one card (single payment cannot be divided between two or more cards
+
+2. Three Transaction Per card is allowed during offer period (Oct'26 ~ Dec'26). Except SBI, AU Bank; One Card One Transaction Per month is allowed.
+
+3. Cashback & NCEMI is Instant to the Customer.
+
+4. Cash Back Offer is applicable on 6 months & above tenure for ICICI CC, HDFC CC, One Card , Kotak CC & AU Bank Transactions. For the remaining banks, it is applicable on 3 Months & above NCEMI. (Subject to Bank Participation)
+
+5. Processing / Convenience fees charged on the transaction may vary from Bank to Bank.
+
+6. EMI conversion is the sole discretion of Card Issuer Bank. For Non - Conversion to EMI the customer needs to connect with their respective bank.
+
+7. In case the transaction is not done under LG Brand EMI option, LG will not be responsible for any claim from the Customer.
+
+
+
+Cash Back Participating Banks (Market Offers)
+Bank Name	Card Type	Applicable Tenure
+AU S.F. BANK	CC	6/9/12
+AXIS BANK	CC	3/6/9/12
+BOB BANK	CC	3/6/9/12
+DBS BANK	CC	3/6/9/12
+FEDERAL BANK	CC	3/6/9/12
+FEDERAL SCAPIA	CC	3/6/9/12
+HDFC BANK	CC / DC	6/9/12
+HSBC BANK	CC	3/6/9/12
+ICICI BANK	CC	6/9/12
+IDFC First Bank	CC	3/6/9/12
+INDUSIND BANK	CC	3/6/9/12
+J&K BANK	CC	3/6/9/12
+Kotak BANK	CC	6/9/12
+ONE CARD	CC	3/6/9/12
+RBL BANK	CC	3/6/9/12
+SBI BANK	CC	6/9/12
+YES BANK	CC	3/6/9/12
+
+Refer enclosed Model List for EMI & Cash Back Offer Applicability Offline Models (Market Offer)
+
+Normal Cashback
+Product Catg.	Cashback %	Max Cashback
+Selected AV	5.00%	500
+Selected RAC
+Selected TV
+Selected RAC	1500
+Selected TV
+2000
+2500
+7.50%	2000
+Selected WM
+Selected RAC	2500
+Selected TV
+Selected APR	3000
+Selected AV
+Selected WPR	750
+1000
+Selected MWO	1250
+Selected WPR	1500
+Special Cashback
+Product Catg.	Cashback %	Max Cashback
+Selected TV	5.00%	3000
+3500
+4000
+5000
+7.50%	3500
+4000
+5000
+5500
+6000
+7500
+9000
+10000
+12500
+20000
+Selected REF	10.00%	1500
+Selected TV	2000
+Selected WM	2500
+Selected APR	4500
+Selected TV	7500
+9000
+10000
+Selected MWO	12.50%	2000
+Selected WPR
+Selected DWASH	2500
+Selected MWO
+Selected WPR
+Selected MWO	3000
+Selected REF	3500
+Selected WM
+Selected DWASH	4500
+5000
+5500
+Selected REF	8000
+15.00%	6000
+16000
+Selected WPR	17.50%	1500
+2500
+3000
+Selected MWO	3500
+4000
+Selected REF	4500
+Selected WM	5000
+6000
+Selected REF	11000
+16000
+20.00%	7500
+Selected MWO	22.50%	4000
+Selected WM	8000
+10000
+Selected REF	14000
+22500
+25000
+30000
+Selected TV	26.00%	26000
+
+
+2. Cash Back Offer for Online Models
+
+Special Cash back: 10% (Max Capping Rs.1500); Refer Online Model List.
+Applicable Banks: AXIS CC/DC, HDFC CC/DC, SBI CC.
+
+
+3. Cash Back Offer for IT Models
+
+Applicable Banks: : Above mentioned all banks are applicable except SBI Bank.
+Note: The banks mentioned above are as per the communication shared to Pine Labs and the final list may vary subject to confirmation from the financiers. (Cashback Participating Banks)
+
+
+4. Combo Offer for AMC Products along with Main Product
+
+Note: If in case of any query kindly revert to the undersigned.
+
+5. Processing / convenience fee charged for the transaction may vary from Bank to Bank.
+
+6. The offer is only available in the form of instant discount which will be deducted from the final product price as per eligible card.
+
+7. The customer can avail cash back on maximum of 3 (three) transaction per bank card during the offer period (Oct'25~Dec'25).
+
+8. For SBI Cards - The Customer can avail cash back only on 1 (one) transaction per month during the offer period.
+
+9. The present terms and conditions are to be read in conjunction with, and not in derogation of, the cardholder agreement entered with the Banks.
+
+10. In event of any inconsistency between the terms of this Offer and the cardholder agreement, terms of Offer shall prevail.
+
+11. All complaints, claims, disputes, concerns, issues, etc., regarding the Offer should be taken up directly with Bank.
+
+12. The cashback is non-transferable, non-exchangeable and non-encash able.
+
+13. All purchases made under this Offer shall be subject to terms & conditions of availability of these products at LG Online Brand Shop/website. The offer is valid till the stock lasts.
+
+14. In case of partial/full cancellation/return of the purchased product, the Offer stands void and the customer will not be eligible for the cashback.
+
+15. LGE and respective Banks reserve the right to extend withdraw or terminate this Offer without prior notice, without assigning any reasons and without any liability towards any person.
+
+16. Banks and LGE reserve the right to add, amend or replace all or any of the terms of this Offer, whether similar to this Offer or not, without prior notice and without assigning any reasons
+
+17. All taxes, duties, levies or other statutory dues and charges payable in connection with the benefits accruing under the Offer shall be borne solely by the customer. Bank and LGE will not be liable in any manner whatsoever for any such taxes, duties, levies or other statutory dues.
+
+18. In the event of any misuse or abuse of Offer by the customer, Banks reserves the right to deny the Offers.
+
+19. Banks and LGE shall not be liable for any losses or damages that may be suffered, by a customer, directly or indirectly, as a result of participating in the Offer and/or by the use or non-use of the card.
+
+20. The liability of Bank towards the customer under this Offer shall not exceed the amount of cashback printed on the charge slip.
+
+21. LGE & Banks reserve the right to disqualify any cardholder from the benefits of the offer if any fraudulent activity is identified as being carried out for the purpose of availing the benefits under the offer or otherwise by use of the card.
+
+22. By purchase through the card during the Offer, customer 1
+(i) Confirms that the its participation in the Offer is voluntary;
+(ii) Unconditionally and irrevocable agrees to these terms and conditions of the Offer
+(iii) Consents that all information provided by the customer may be shared by partner with its agents, representatives, service providers and employees, and may be used to send promotional information pertaining to LGE to the Customer, in future.
+(iv) Have read, understood and accepted these terms and conditions.
+
+
+
+
+
+Parts & Accessories
+
+Definition: The Cash-On-Delivery is the payment method in which the customer needs to pay the Cash before the ordered product is handed over and shall be provided to you at LG's sole discretion..
+
+
+
+Availability of COD Option:
+
+The Cash on Delivery (COD) payment option is available for orders only when it is assisted by LG's aligned Service Engineer. For avoidance of doubt, it is hereby clarified that the 'Cash on Delivery' feature for payment, may be disabled for certain account users, at the sole discretion of LG.
+COD is only available for orders of LG Parts & Accessories and AMC.
+COD availability is subject to the delivery location and stock availability of LG Parts & Accessories with the Service Engineer.
+
+
+Order confirmation and Delivery:
+
+Once the customer confirms the product (Parts & Accessories) or AMC to be purchased during the Service Engineer visit, the Service Engineer will create the order on LG.com/in.
+When the cash is given by the customer, the Service Engineer will be acknowledging the order via an interface provided to the Service Engineer.
+Customer will receive the order and payment acknowledgement on SMS and email.
+Service Engineer will handover the order to the customer applicable only for Parts & Accessories.
+Service Engineer will submit the collected Cash to LG accounts. Once the cash is settled in LG's account, customers will receive an invoice for their order. This may take up to 2-3 business days from the date of cash collection.
+Paying by Cash LG at its sole discretion can give an option to you to pay by cash at the time of delivery. You can handover the package amount to the Service Engineer. In the event this option is availed, please note that our Service Engineer might not have the change amount always with them, hence we request you to kindly tender the exact amount in cash to the Service Engineer.
+
+
+Note:
+
+Cash on Delivery isn't yet available for all pin codes.
+For more details on the cash on Delivery limit for a specific order, please visit the product details page.
+cash on Delivery will only be available for some items under Lightning Deals.
+If you're using cash on Delivery as a payment method and your mobile number isn't verified on LG.com, you'll be asked to enter a One-Time password to complete your order. This One-Time password will be sent to your registered mobile number.
+
+
+Cancellation:
+
+Once the order is created, Service Engineer will ask the customer to pay the cash. If the cash is denied by the customer, then the order will be cancelled.
+No cancellation will be allowed, once the cash is collected and ordered product is handed over to the customer by the Service Engineer.
+
+
+Miscellaneous:
+
+All disputes arising are to be settled under the jurisdiction of the Delhi courts and shall be governed by the laws applicable in India.
+
+
+
+
+LG Electronics Terms of Service
+
+By availing this Bright Care Cleaning Services(“Service(s)”), the customer confirms that they have read, understood, and accepted these terms and conditions and agrees to be bound by all terms and conditions outlined herein.
+
+
+
+LG Electronics India Limited (“LGE”), along with its group companies (“we” or “us”), is happy to provide services to you (the “User or “you””). These Terms of Service explain how you can use LG’s services, including:
+
+LG’s websites linked to these terms (the Website).
+The ThinQ mobile app (the Application).
+Products connected to the ThinQ app (except Smart TVs).
+Content and features available through the Website and Application (together, the LGE Service).
+Please Note: These terms do not apply to other LG products, like Smart Media Products.
+
+
+
+Cleaning Services
+
+LG offers a Bright Care Cleaning Service for residential air conditioners, washing machines, and refrigerators bought and installed in India.
+The Cleaning service must be purchased in advance through LG.com/in.(“Website”)
+The service charges are payable in advance. Prices mentioned on the website include taxes, are in Indian Rupees (INR), and can change without prior notice.
+This is fee-based service applicable only to products that are out-of-warranty. Products within the warranty period are eligible under standard LG warranty.
+Includes cleaning only. It doesn’t include repairs, part replacement or software updates.
+
+
+1. Service Availability:
+
+Customers can select their preferred date from the available slots at the time of purchase request creation on the website.
+If a customer wants to reschedule the slot, they can request it from the Service Engineer during the pre-visit confirmation call.
+
+
+2. Scope of Service:
+
+Service Engineer will call and schedule the appointment before the visit.
+Pre-inspection will be conducted by LG service engineers.
+The service only includes cleaning, not repairs or part replacements.
+Repair recommendations outside the cleaning scope will be quoted and charged separately if approved by customer.
+
+
+3. Invoice:
+
+The invoice will be sent to customers via email and/or WhatsApp.
+LGEIL will not be responsible for any issues with the service if incorrect details are provided by the customer during AMC purchase.
+
+
+4. Important Conditions:
+
+Service is only available at residential addresses within India.
+Customers must notify LG at least 2 working days in advance for cancellations.
+To cancel the service, customers must contact LG India’s support team at https://www.lg.com/in/support/contact-us/ and request a cancellation.
+In the case of bundled purchases (where two or more services and products are purchased together), only full cancellations and refunds will be permitted. Partial cancellations will not be accommodated.
+Customers must ensure the service team has safe and full access to the product to perform cleaning.
+The LG Service Engineer reserves the right to refuse or defer the cleaning service in the following cases:
+The appliance is installed in an unsafe or inaccessible location, posing a risk to the technician’s safety (e.g., wall-mounted units at dangerous heights, restricted crawl spaces, or wet areas).
+The product is found to be reverse-engineered, tampered with, or non-genuine, including unauthorized third-party alterations.
+The unit is too old, damaged, or in poor condition such that basic cleaning may not resolve functional issues or may cause unintended damage.
+Cleaning the unit would require dismantling or repairs, which are not part of this Service.
+If service is denied under the above grounds, and the customer was duly informed during the pre-check, no refund shall be applicable unless determined otherwise by LGEIL in its sole discretion.
+
+
+5. Refunds:
+
+Cleaning services not used within 15 days of purchase may be cancelled, and the amount paid will be refunded, unless rescheduled by the customer.
+
+
+6. Decision Authority
+LG’s decisions on all matters relating to offers shall be final and binding. No claims or disputes will be entertained in this regard. LG reserves the right to modify, alter, withdraw, or extend the offer at any time without prior notice or justification.
+
+
+
+7. Dispute Resolution
+All disputes shall be settled or adjudicated in courts located in New Delhi.
+
+
+
+8. Cleaning Guarantee:
+A 90-day cleaning protection guarantee starts from the service date.
+
+
+
+9. What Each Cleaning Service Includes:
+
+
+
+A. Washing Machine Tub Cleaning:
+
+Checking the product.
+Cleaning door gasket, detergent dispenser, inlet filter, and drain valve.
+Cleaning the tub with descaling powder.
+Wiping the exterior.
+Post-cleaning functionality check.
+
+
+B. Air Conditioner Cleaning:
+
+Checking the product.
+Cleaning indoor and outdoor units with a jet pressure pump.
+Dust filter cleaning.
+Wiping the exterior.
+Post-cleaning functionality check.
+
+
+C. Refrigerator Cleaning:
+
+Checking the product.
+Cleaning condenser coil and water tank (specific models).
+Wiping the exterior.
+Post-cleaning functionality check
+
+
+10. Services excluded from the cleaning service includes:
+
+Component malfunction
+Gas refilling
+Chemical cleaning
+Transport
+Any physical damage to the unit (Wear & Tear)
+
+
+11. Additional Information: For more details, please visit www.lg.com/in or contact our customer support.
+
+
+
+
+Terms & Conditions
+(LG Best Care Plan)
+
+
+
+This Terms and Conditions (“AMC”) is entered between LG Electronics India Limited (“LGEIL”) and the Customer (“You”) as specified on the invoice/receipt issued by _______________. This AMC is for the maintenance of the product and shall be from the date of purchase. Under this AMC, LGEIL undertakes to maintain your product used at the registered address, subject to terms and conditions mentioned hereinafter.
+
+
+
+10. Services excluded from the cleaning service includes:
+
+The AMC shall be valid for a period as mentioned in the invoice.
+Acceptance/ renewal of AMC shall be at the sole discretion of LGEIL.
+Renewal of the AMC after its expiry or after the expiry of the warranty period of the product, will be at the sole discretion of LGEIL and depending upon the model / age of the product and usage period. The product must be in good working condition and the same to be certified by the authorised representative of LGEIL, before this AMC becomes effective. The customer shall pay the necessary charges in the first instance for rendering the equipment so workable, for which LGEIL will submit an estimate for approval. This clause does not apply if a AMC is renewed from the next day of date of termination of the warranty period or previous AMC period.
+In the event of any complaint, please quote your name, address and the contract number to the LGEIL’s call center only. In order to enable LGEIL to discharge its obligation under this AMC, the customer shall notify in writing any change in his address. In default whereof, LGEIL shall not be obliged to perform its obligations under this AMC till it receives such an intimation from the customer. In such an event the removal and re-installation of the Product / Attachment will be done at an additional cost as per the rates prevailing on that date.
+The AMC shall not cover repair/service under the following circumstances.
+A. Damage caused to the product due to floods, fire, accident, riot, breakage, pest, misuse, improper or negligent use, tampering, and leakage from pipes etc.
+B. Damage caused to the product due to failure to observe the operating instructions and precautions as mentioned in User's Manual
+C. Defects due to usage of non-recommended spares.
+D. Visits for customers re-training, for dismantling or for re-installation.
+E. Defects / Failures resulting from servicing / repairs done by a person other than the authorised representative of LGEIL.
+F. With regard to repairing the existing worn-out / defective part(s) or replacing the same and ascertaining the presence of above circumstances, the decision of LGEIL shall be final. In any such event, LGEIL will submit a prior estimate for approval or bill for the work carried out at the prevailing rates
+In the event of the inability to provide services under this AMC due to non-availability of spares /parts, LGEIL’s depreciation policy shall apply.
+LGEIL or its authorised agents will be entitled to retain any defective parts replaced during this AMC.
+While every effort shall be made to give preferential attention to emergency breakdown of the equipment, the LGEIL shall not be held responsible for any loss arising.
+The AMC is neither terminable before the expiry period nor transferable in the event of resale / gift to any other person.
+The equipment brought to the service center will remain there at customer risk and the LGEIL will not be responsible for any damages caused due to the factors beyond its control.
+Damage to the product or any parts due to transportation / shifting is not covered under this AMC.
+Scope of these terms & conditions is to attend to breakdown calls (Technical failure, Part failure, sealed system leakages). Customer shall be required to intimate about such breakdown by getting complaint registered at LGEIL's Call Centre.
+The AMC shall cover the following parts under the normal product warranty based on selected plan code
+HA/AC Products: Compressor, Thermostat, Relay, OLP, Fan Motors, Timers, PCB, Heaters, Air dampers, Ice maker, temperature sensors, Evaporators, Condensers, Refrigerant charging, Driers, Capillary, Blowers, Fan Blade, Control box, Magnetron, Electrical switches, transformers (internal), Diodes, Capacitors, Wire harness, Wash & Spin motors, Gear box, Clutch Assy., Drum, Inner tub, Bellows, bearing & lip seal, Drain motor, Pump, Electrical valves, Buzzer, Suspension, Key Membrane, Remote-PCB.
+HE Products: Chassis, PCB, LCD module, Electrical switches, PDP module, SMPS, Speakers, Capacitors, Diodes, Transformer, Transistors, IC, Remote-PCB.
+
+
+AMC Plan Wise Coverage for below product
+Product:Air conditioners, Refrigerators, Washing Machine, Television, Microwave, Audio, Dishwasher, Air Purifier, Styler
+
+Platinum Plan
+
+Covers Labor + Parts + Gas
+( Sealed System) + Proactive Maintenance Visit / One time panel damage cover in TV category
+
+Gold Plan
+
+Covers Labor + Parts + Gas
+( Sealed System)
+
+Silver Plan
+
+Cover Part failure only during this Plan code and Labor charges will be paid by customer as per LG Out Warranty Price list
+
+Bronze Plan
+
+Cover only Labor during this Plan code and part charges will be paid by customer as per LG Price list
+(Gas charging only once in a year)
+
+AMC Plan Wise Coverage for Water Purifier
+
+Platinum Plan
+
+Inside Filter One Time
+Out Side Pre Filter Three Time
+HM Service Three Time
+Functional Part Yes
+Gold Plan
+
+Inside Filter No
+Out Side Pre Filter Three Time
+HM Service Three Time
+Functional Part Yes
+Silver Plan
+
+Inside Filter No
+Out Side Pre Filter Three Time
+HM Service Three Time
+Functional Part Yes
+Bronze Plan
+
+Inside FilterNo
+Out Side Pre Filter Three Time
+HM Service Three Time
+Functional Part No
+Non RO model only 2 time HM service with pre filter replacement in one year.
+Half Yearly AMC valid for 6 month with one HM service with pre filter replacement (for both RO & Non RO Model)
+Main liner crack, Doors, Bulbs, Remote rubber pad, stabilizers, consumables, and any damage to the aesthetical components shall not be covered under this contract.
+
+
+
+This AMC does not include any kind of software support or installations. LGEIL shall not be responsible for damage to, or loss of, any programs, data or removable storage media including any consequential loss or damage.
+All third party peripherals, whether purchased as a part of a system, or bundled with it, come with the prevailing agent's warranty, and LGEIL makes no warranty whatsoever on their behalf. E,g. USBs, Printers, UPS, etc.
+This AMC will not be valid for any item not supplied or certified from LGEIL and covers the base configuration only shipped from LGEIL Factory. Any additions / alterations to hardware will not form part of AMC and will be chargeable to customer.
+LGEIL will repair / replace any defective parts and correct any problems resulting from workmanship free of charge. LGEIL reserves the right to use reconditioned parts with performance parameters equal to those of new parts in connection with any services performed under LGEILs warranty. Defective parts needs to be submitted to LGEIL or Authorized Service Center and becomes property of LGEIL.
+LGEIL's liability under this AMC is limited to providing services and replacement of necessary parts as covered under this AMC. LGEIL will not be liable for damages, death, injuries, health or any consequential damages of whatsoever nature to any person or property by use or operation of the product. Maximum liability (direct and indirect) of LGEIL under this AMC will be limited to the amount paid by the customer for availing services under this Contract.
+Customer agrees that LGEIL may collect and process the data provided by the customer for the purpose of providing the services under this AMC.
+The validity, interpretation and performance of this AMC shall be governed by the laws of India and the parties hereby submit to the exclusive jurisdiction of the courts of competent jurisdiction at Delhi
+Pricing, terms and conditions of this AMC are subject to change without any notice.
+
+
+Regd. Office: A -24/6, MOHAN COOPERATIVE INDUSTRIAL ESTATE, MATHURA ROAD, NEW DELHI -110044
+(Corporate Identity Number: U32107DL1997PLC220109)
+Customer Care: 08069379999 /Whatsapp: 9711709999 or Visit us: www.lg.com/in/support
+
+
+
+
+
+
+LG TV + Soundbar OBS ADD on Bundle Year 2026 T&C
+
+Background:
+
+With the GST changes now both TV & Audio will have similar GST
+and hence LG Online Brand Store( OBS) will combine products
+via Bundling/Combo & present Joint Offers to end consumer
+
+Offer Proposal:
+
+Buy together Eligible LG TV with LG Soundbar via OBS & get upto 10% discount on the combo purchase as per system pricing
+
+Period:
+
+1. Offer Duration : 11Feb2026 (14:00 Hour Onwards) ~ 31 Dec’2026 (Till 23:30 Hours)
+
+Offer Details:
+
+LG OBS will be Bundling SKUs and pass on additional benefit to customers buying select UHD/OLED/QNED TVs and Soundbar in single invoice.
+Below is the Overview of Applicable TV & Soundbar with Discount component mentioned
+Pls note :
+The Table below showcase all applicable models for the offer however LGEIL reserves the right to edit/ showcase all /Keep specific /delete models of both TV +Soundbar to be displayed on its website for the offer without any prior intimation
+LGEIL reserves the right to maintain/Change the discount percentage associated without any prior intimation
+No.	TV Model	Soundbar Model	Combo:Opt-1
+(TV +Soundbar opt1)	Soundbar Model	Combo:Opt-2
+(TV +Soundbar opt2)
+Opt-1	Upto 10% Discount on
+Combo Buy Button/
+Net Effective Price	Opt-2	Upto 10% Discount on Combo Buy Button/
+Net Effective Price
+1	43UA82006LA.ATR	SP2.CINDLLK	Y	S65TR.CINDLLK	Y
+2	50UA82006LA.ATR	S40T. DINDLLK	Y	S65TR.CINDLLK	Y
+3	55UA82006LA.ATR	S40T. DINDLLK	Y	S65TR.CINDLLK	Y
+4	65UA82006LA.ATR	S65TR.CINDLLK	Y	S70TY.CINDLLK	Y
+5	55QNED8GA6A.ATR	S65TR.CINDLLK	Y	SQ70TY.CINDLLK	Y
+6	65QNED8GA6A.ATR	SQ70TY.CINDLLK	Y	SQ70TY.CINDLLK	Y
+7	OLED55C56LA.ATR	S70TY.CINDLLK	Y	SC9S.DINDLLK	Y
+8	OLED65C56LA.ATR	SC9S.DINDLLK	Y	SC9S.DINDLLK	Y
+Process Flow:
+
+2. This offer will be applicable for both
+
+Organic (customer who land at website by their own accord/or by clicking any banners/other possible reference) and
+CIC customers.(Customer who have consented & clicked specific LG Lead generation Ads & are reached out via LG agents)
+3. Organic Customer Journey:
+
+Step1 - Customer visits on LG.com TV Product Page
+Step 2 – Add on offer visible on select TV Product page
+Step 3 - Customer select the Add-on offer visible on the TV product page
+Step 4 - Total Amount visible to customer (TV + Soundbar)
+Step 5 - Customer click on checkout
+Step 6 - Customer to Enter Address and Make Payment from available payment options
+4. E-Promoter Journey:
+
+Step1- Customers arriving through Facebook/Digital Media Leads will be informed by CIC agent about the offer and guided to LG.com TV Product Page
+Step 2 – Add on offer visible on select TV Product page – In Certain cases CIC agent may offer customer selection of discount%, with diff levels of cashback
+Step 3 - Customer select the Add-on offer visible on the TV product page
+Step 4 - Total Amount visible to customer (TV + Sound-bar)
+Step 5 - Customer click on checkout
+Step 6 - Customer to Enter Address and Make Payment from available payment options
+5. Offer conditions
+
+LGEIL reserves the right to display which TV +Soundbar to be shown at any given point of time
+Based on business condition may change product combination & associated discount percentage
+Complete offer can changed/cancelled/ paused without any prior intimation
+Products may Reach consumer separately with different delivery timelines
+In-case of Return /defectiveness etc. both the products have to be returned together to LGEIL
+Exclusive consumer offer applicable till promo stock last
+CIC Additional discount 2% & Weekly Offer shall be applicable over & above
+Additionally Bank cashbacks/EMI/Weekly offers will be applicable, basis the final price of Individual model, not on the sum total of both product.
+For detail of cashback/EMI/ Offer Details/ Weekly Offers please visit. (https://www.lg.com/in/ | https://www.lg.com/in/terms-and-conditons-of-purchase/)
+No Other Offers are applicable unless specifically mentioned
+LG shall assume no liability financial or otherwise and reserves the right to change, amend, modify, suspend, or terminate all or any part of the offer at any time without any notice, based on market conditions/stock availability.
+6. General Terms
+
+Finance Offers: All finance offers, if applicable, are subject to approval by finance companies/banks based on their respective terms and conditions and are subject to their assessment. LG does not influence these decisions. LG Electronics India Ltd. (LGEIL) assumes no responsibility regarding cashback offers.
+Protection of Personal Information: LG India is committed to protecting the personal information of its customers. By participating in this offer, the customer agrees to all the terms and conditions herein and consents to the processing of personal data, including for marketing and promotional communications, in accordance with LG’s privacy policy.
+Decision Authority: LG’s decisions on all matters relating to offers shall be final and binding. No claims or disputes will be entertained in this regard. LG reserves the right to modify, alter, withdraw, or extend the offer at any time without prior notice or justification.
+Product Representation: Images of products shown are for illustrative purposes only. Actual products may vary due to product enhancement.
+Dispute Resolution: All disputes shall be settled or adjudicated in courts located in New Delhi.
+Additional Information: For more details, please visit https://www.lg.com/in/
+7. Duration of this campaign:
+
+Exclusive consumer offer applicable till promo stock last
+Offer Duration : 11Feb2026 (14:00 Hour Onwards) ~ 31 Dec’2026 (Till 23:30 Hours)
+8. List of Applicable Models
+
+(Visit LG Dotcom Product Display Page to know eligibility/features of the exact model)
+
+No.	TV Model	Soundbar Model	Combo:Opt-1
+(TV +Soundbar opt1)	Soundbar Model	Combo:Opt-2
+(TV +Soundbar opt2)
+Opt-1	Upto 10% Discount on
+Combo Buy Button/
+Net Effective Price	Opt-2	Upto 10% Discount on
+Combo Buy Button/
+Net Effective Price
+1	43UA82006LA.ATR	SP2.CINDLLK	Y	S65TR.CINDLLK	Y
+2	50UA82006LA.ATR	S40T. DINDLLK	Y	S65TR.CINDLLK	Y
+3	55UA82006LA.ATR	S40T. DINDLLK	Y	S65TR.CINDLLK	Y
+4	65UA82006LA.ATR	S65TR.CINDLLK	Y	S70TY.CINDLLK	Y
+5	55QNED8GA6A.ATR	S65TR.CINDLLK	Y	SQ70TY.CINDLLK	Y
+6	65QNED8GA6A.ATR	SQ70TY.CINDLLK	Y	SQ70TY.CINDLLK	Y
+7	OLED55C56LA.ATR	S70TY.CINDLLK	Y	SC9S.DINDLLK	Y
+8	OLED65C56LA.ATR	SC9S.DINDLLK	Y	SC9S.DINDLLK	Y
+
+
+
+
+ 
+Diwali Terms & Conditions
+
+General Terms:
+
+*T&C apply. Creative Visualization. Product images shown are for representation purpose only. *Based on third party reports for FY2026. Product may vary in size. Product features may vary from model to model. Star rating varies from model to model. This content was created using AI. For more information, kindly visit ww.lg.com/in
+Product images used in creative are for illustrative purposes only. Actual products may differ due to enhancements or updates.
+The offers are valid from 1st Oct to 15th Nov 2026 (“Offer Period”).
+Offer may vary depending on the product purchased and are applicable only on select models
+By availing this offer, the customer is deemed to have accepted these terms and conditions.
+Please confirm applicable offer with the store manager before making a purchase.
+LGEIL (LG Electronics India Limited) will not be responsible for any unclaimed benefits or liabilities after the offer period.
+Cashback term
+
+Up to 26% or max ₹30,000 (whichever is lower) Cashback Offer is applicable on select models only. Cashback will be posted to the consumer account 90 days from the end of the offer period unless instant cash back is active in the store. Cash back is at the sole discretion of Bank/Finance Company and is governed by the terms and conditions of Bank/ finance company. Cash Back on Credit and Debit card, EMI / Non-EMI transactions depend on bank to bank on selected category. For purchase of a product, payment is allowed only from one card (single payment cannot be divided between two or more cards). Three Transaction Per card is allowed during offer period (1st Oct to 31st Dec 2026 ) except SBI & AU S.F. One Transaction per card/ per month is allowed on SBI & AU S.F. Cash back should appear on charge slip for applicability. LGEIL will facilitate interest cost up to 4% depending upon Bank to Bank and on tenure of EMI as opted by the customer. Processing/ convenience fee charged on the transactions may also vary from Bank to Bank. Customers are advised to check with respective bank/ finance companies for details. Offer Valid on 6 months & above EMI tenure for HDFC/ SBI / ICICI /AU S.F (In case the offer is live with these bank cards). LGEIL expressly disclaims any and all liability in any manner whatsoever. All finance offers are subject to approval by finance companies/banks based on their respective terms and conditions and are subject to their assessment.
+
+Fixed EMI (starting from ₹888/-) is applicable on select models of Water purifier & washing machine. Cashback & EMIs are at the sole discretion of Bank / Finance Company and is governed by their T&C. LG Electronics India Ltd. expressly disclaims any liability in any manner whatsoever.
+
+0 down payment T&C: Pay ₹0 and get home LG products, balance to be adjusted in the processing fees paid by the customer. applicable for select model & products only
+
+LGEIL reserves the right to modify, alter, withdraw or extend the offers at any point of time without any prior notice or justification. Offers cannot be clubbed with any other offers, and gifts cannot be redeemed for cash at any point of time. Products are available for purchase without these offers as well. Offers are applicable only on retail sales at select outlets in select cities and may not applicable on institutional sales, B2B, B2C, online channel, E-commerce, Government sales etc. and other modes of sales transactions which do not specifically fall under the category of retail sales. LGEIL’s decision regarding all matters under the offers shall be final and binding and no claims shall be entertained in this regard. All disputes are to be settled / adjudicated in Delhi Courts only. LGEIL shall not be responsible for any loss or damage, if it has to alter, modify or withdraw this offer in compliance with any law, ruling, order, regulation, requirement or instruction of any Central / State Government, or for any other unavoidable reason beyond their control. This offer is subject to Force Majeure conditions including but not limited to Pandemic, Epidemic, and Natural Disasters Etc. Features are subject to change and may vary from model to model. Star ratings vary from model to model. All third party logos, trademarks and content mentioned in this creative are the property of their respective owners. LG claims no rights, title, or interest in, and assumes no legal responsibility for such materials. Product images shown are for representative purpose only. Actual products may differ.. For more information, please visit ww.lg.com/in or contact retailer / store manager.
+
+3-Year Warranty is applicable on select OLED TVs. This includes 1 Year Standard Warranty and next 2 Year on functional parts (labour charges apply in the 2nd & 3rd year)
+
+Mini Ref Offer: Free Mini Refrigerator worth Rs.14190 on select SBS models: GL-B277GNB3, GL-B277GPZ3, GL-B277HBM3, GL-L257CPZ3, GL-X257ABS3, GL-X257AMC3, GL-L257CMC3.
+
+4200 worth free maintenance Get free annual maintenance package worth Rs. 4200/- a value equivalent of 1st year maintenance package applicable on select models of Water Purifiers.
+
+Warranty -10 year on compressor 10 Year Warranty is applicable only on Inverter Compressor
+
+To avail Up to 30% discount the LG Annual Maintenance Contract (AMC) must be Purchased within 30 days from the Invoice date of the eligible product.
+
+Awards & recognitions
+Digit Award: Awarded in Digit “India’s Top Appliance award2026”
+Most Iconic brand: Awarded in “Goalfest conclave 2026”, Prestigious Brands Awards
+TRA recognition: As per TRA’s Brand Trust Report 2026
+
+
+
+ 
+
+
+Terms & Conditions - Diwali Offer - TV and SoundBars.
+
+Offer valid all India (at participating offline store purchase only) retail stores in select cities across India up to 8th Nov 2026, or until stocks last, whichever is earlier (“Offer Period”). Offers are available on selected products only and may vary by model, store, city, bank/financier, card type, EMI tenure and transaction mode. Customers are advised to check eligible models and applicable offer details with the retailer/store manager before purchase.
+
+5 Year Assurance is valid on select LG OLED TVs. “5 Year Assurance” refers to the applicable warranty/extended warranty/service plan benefit available on select models, subject to the relevant plan terms, coverage and exclusions. The advertised per-day cost is an illustrative calculation based on the Extended Warranty Silver Plan applicable to a selected 106 cm (42) OLED TV model and may not be applicable to other models. Calculated over an extended period of 5 years. 3 Year Warranty is applicable on select 81cm (32) and above TVs. This means 1-year standard comprehensive warranty plus 2 years promotional warranty on select parts only. This includes 1 Year standard Warranty and next 2 Year free of Cost promotional warranty on select parts. Labour cost is chargeable for 2nd & 3rd year.
+
+Cashback up to 26% or max ₹26000/- (whichever is lower)/ 1 EMI Free / 0 Down Payment, 0 processing fee, 15-Month EMI is applicable on select TVs[SY2.1]. Exact cashback, EMI and finance benefits may vary depending on model, bank/finance company, card type, transaction mode, EMI tenure, store and customer eligibility. The cashback will be posted to the consumer account after 90 days from end of offer period, unless instant cashback is active in the store. Cashback shall be subject to successful validation by the relevant bank/finance company. Cashback on Credit and Debit card, EMI / Non-EMI transactions depends on bank to bank.
+
+UPGRADE at EMI (starting from ₹1999) / Zero Down Payment & Processing Fee is applicable on select TV models. Cashback & EMIs are at the sole discretion of Bank / Finance Company and is governed by their T&C. LG Electronics India Ltd. expressly disclaims any liability in any manner whatsoever. Discount of up to 30% T&C. LG Electronics India Ltd. shall not be responsible for rejection, delay or non-processing of cashback, EMI, zero down payment or finance benefits where such rejection, delay or non-processing is attributable to the relevant bank/finance company or customer ineligibility, subject always to applicable law and consumer statutory rights.
+
+Discount of up to 30% on MRP on select models of Soundbars when purchased along with selected LG 4K TVs.
+
+All Prices mentioned are in Indian Rupee and inclusive of all taxes. Any additional charges, if applicable, shall be disclosed before billing. LG reserves the right to modify, alter, withdraw or extend the offers at any point in time without any prior notice for business, operational, legal or justification regulatory reasons, subject to applicable law. Any such modification shall not adversely affect benefits already accrued to eligible customers during the Offer Period. Offers cannot be clubbed with any other offers, and gifts cannot be redeemed for cash at any point of time. Products are available for purchase without these offers as well.
+
+Offers are applicable only on retail sales at select participating offline retail outlets in select cities and may not be applicable on institutional sales, B2B, B2C, online channel, E-commerce, Government sales etc. and other modes of sales transactions which do not specifically fall under the category of retail sales. LG’s decision regarding all matters under administration of the offers shall be final, subject to applicable law and binding and no claims shall be entertained in this regard. All disputes are to be settled / adjudicated in the consumer’s statutory rights. Subject to applicable law, courts at Delhi shall have jurisdiction. Nothing in these Terms and Conditions shall restrict a consumer's right to approach an appropriate consumer commission.
+
+LG shall not be responsible for any loss or damage, if it has to alter, modify or withdraw this offer in compliance with any law, ruling, order, regulation, requirement or instruction of any Central / State Government, or for any other unavoidable reason beyond their control. This offer is subject to Force Majeure conditions including but not limited to Pandemic, Epidemic, and Natural Disasters Etc.etc., subject to applicable law. Features are subject to change and may vary from model to model. Star ratings vary from model to model. Dolby and other logos shown in the creative belong to respective trademark owners only. Product images shown are for representative purpose only. Actual products may differ. Star ratings vary from model to model. The content was created using AI.
+
+LG has been ranked as India’s No.1 Trusted Brand in the category of Televisions as per TRA’s The Most Trusted Brands 2026 Report, a study conducted by TRA Research Pvt. Ltd. Results are not endorsement of LG Electronics India Limited. Perfect Black and Perfect Color as per UL certifications. Any reliance on these results is at third-party’s own risk. .For more information, please visit www.lg.com/in or contact retailer / store manager.
+
+
+
+
+
+Grab More, Save More - Terms & Conditions
+
+This Offer is brought to you by LG Electronics India Limited (“LG” or “LGEIL”). By participating in this offer, the Participant/user confirms that they have read, understood, and accepted these Terms and Conditions and agrees to be bound by all terms and conditions outlined herein. Participation in this Offer is voluntary and subject to these Terms and Conditions, the terms of use of www.lg.com/in, LG’s Privacy Policy, and all applicable laws
+
+1. Offer Description
+
+1.1. Offer 1: Buy 2 LG eligible products in a single transaction from the same package (royal package or luxury package) on www.lg.com/in and get additional 10% discount at the time of Check-out, subject to these Terms and Conditions.
+
+1.2. Offer 2: Buy 3 eligible LG products in a single transaction from the same package (royal package or luxury package) on www.lg.com/in and get additional 15% discount at the time of Check-out of the products subject to these Terms and Conditions.
+
+1.3. Participant/user may avail the above additional discounts only on purchase of the LG products/models listed below during the offer period, subject to stock availability, serviceability, successful order confirmation and its terms and conditions.
+
+Royal Package
+Category	Model
+Microwave	MC3286BRUM
+Microwave	MJEN286UGWF
+Microwave	MJEN326ULWF
+Refrigerator	GLT3226SNDS
+Refrigerator	GLT3426SNDS
+Refrigerator	GLD1936ZARW
+Refrigerator	GLT2516WXDS
+Refrigerator	GLT2216WYRI
+Washing Machine	P7020NGAZ
+Washing Machine	T80VBMB4Z
+Washing Machine	P9555SKAZ
+Washing Machine	T90VBMB1S
+Washing Machine	THD12SWM
+Washing Machine	P8530SRAZ
+Washing Machine	P115ASLAZ
+Washing Machine	T70VBMB1Z
+Washing Machine	P1040RGAZ
+Washing Machine	T80V4OB1S
+Washing Machine	TX510SWO
+Washing Machine	TX511SWO
+Washing Machine	PX120A9SO4Z
+Water Purifier	WW141NF
+Water Purifier	WW156RTTB
+Water Purifier	WW176GTBW
