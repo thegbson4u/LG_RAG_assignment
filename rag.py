@@ -35,7 +35,9 @@ if not api_key:
 @st.cache_resource
 def load_embedding_model():
     return HuggingFaceEmbeddings(
-        model_name="all-MiniLM-L6-v2"
+        model_name="sentence-transformers/all-MiniLM-L6-v2",
+        model_kwargs={"device": "cpu"},
+        encode_kwargs={"normalize_embeddings": True}
     )
 
 # File uploader
@@ -48,37 +50,56 @@ uploaded_files = st.file_uploader(
 if st.button("Process Documents"):
     if not uploaded_files:
         st.warning("Please upload at least one file.")
-
     else:
-        documents = []
+        try:
+            with st.spinner("Processing documents..."):
+                documents = []
 
-        with st.spinner("Extracting documents..."):
+                for uploaded_file in uploaded_files:
+                    suffix = os.path.splitext(uploaded_file.name)[1]
 
-            for uploaded_file in uploaded_files:
+                    with tempfile.NamedTemporaryFile(
+                        delete=False, suffix=suffix
+                    ) as temp_file:
+                        temp_file.write(uploaded_file.getbuffer())
+                        temp_path = temp_file.name
 
-                suffix = os.path.splitext(uploaded_file.name)[1]
+                    try:
+                        if suffix.lower() == ".pdf":
+                            loader = PyPDFLoader(temp_path)
+                        else:
+                            loader = TextLoader(
+                                temp_path, encoding="utf-8"
+                            )
 
-                with tempfile.NamedTemporaryFile(
-                    delete=False, suffix=suffix
-                ) as temp_file:
+                        documents.extend(loader.load())
+                    finally:
+                        os.remove(temp_path)
 
-                    temp_file.write(uploaded_file.getbuffer())
-                    temp_path = temp_file.name
+                if not documents:
+                    st.error("No text could be extracted.")
+                    st.stop()
 
-                try:
-                    if suffix.lower() == ".pdf":
-                        loader = PyPDFLoader(temp_path)
+                splitter = RecursiveCharacterTextSplitter(
+                    chunk_size=400,
+                    chunk_overlap=20
+                )
 
-                    else:
-                        loader = TextLoader(
-                            temp_path,
-                            encoding="utf-8"
-                        )
+                chunks = splitter.split_documents(documents)
 
-                    documents.extend(loader.load())
+                embedder = load_embedding_model()
+                vectorstore = FAISS.from_documents(chunks, embedder)
 
-                finally:
-                    os.remove(temp_path)
+                st.session_state.retriever = vectorstore.as_retriever(
+                    search_kwargs={"k": 3}
+                )
+                st.session_state.processed = True
+
+            st.success(f"Processed {len(uploaded_files)} files!")
+            st.write(f"Total chunks: {len(chunks)}")
+
+        except Exception as e:
+            st.error(f"Processing failed: {e}")
 
         # Text splitting
         splitter = RecursiveCharacterTextSplitter(
